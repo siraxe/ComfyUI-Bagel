@@ -15,4 +15,5 @@ This is a ComfyUI distribution with a Bagel 1-click install, based on:
 2. Then use `run_comfy.bat` or `run_gradio.bat` to start the application.
 
 ## Disclaimer
+Only DF11 works for some reason
 Kornia currently errors out with Flash_attn cu128 on comfyui startup. The exact cause is unknown but it still works
